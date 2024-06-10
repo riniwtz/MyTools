@@ -1,0 +1,10 @@
+QPushButton {
+    background-color: rgb(76, 76, 76);
+    border: none;
+    padding: 1em 1em 1em 1em;
+}
+
+QComboBox {
+    border: 1px solid white;
+    border-radius: 4px;
+}
